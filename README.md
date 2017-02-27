@@ -1,2 +1,2 @@
 # BLC_movielens
-factorization using BLC for movielens dataset
+factorization files using BLC [1] for movielens dataset https://grouplens.org/datasets/movielens/10m/
